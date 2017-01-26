@@ -1,3 +1,4 @@
+(distinct)
 how to save: eat
 drink 
 smell
